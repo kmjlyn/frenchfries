@@ -1,0 +1,21 @@
+body {
+	width: 1280px;
+	height: 768px;
+	background-image: url('../../../asset/img/mustard.gif');
+	background-repeat:no-repeat;
+}
+
+#loading1{
+	position: absolute;
+	width: 1280px;
+	height: 768px;
+	transition:0.3s;
+	background-image: url('../../../asset/img/loading1.gif');
+}
+#loading2{
+	position: absolute;
+	width: 1280px;
+	height: 768px;
+	transition:0.3s;
+	background-image: url('../../../asset/img/loading2.gif');
+}
